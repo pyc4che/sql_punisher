@@ -1,7 +1,7 @@
 # Description
 
 sql_punisher - is a web-application penetration tool. 
-That performs quick scan for SQL Code Injection Vulnerability, by injecting SQL Code (payload).
+That performs quick scan for SQL Code Injection Vulnerability, by injecting SQL Code (payload). 
 -----
 
 # Preview
