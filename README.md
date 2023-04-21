@@ -21,7 +21,7 @@ Setup
 
 `pip3 install -r requirments.txt`
 
-`python scanner.py -h`
+`python3 scanner.py -h`
 
 Usage
 ---
@@ -31,7 +31,7 @@ Try flag '-h' or '--help' to see the help message.
 You have to set `target`:
 ----
 
-`python3 scanner -t URL`
+`python3 scanner.py -t URL`
 
 # Tests
 Software tested on Windows, Termux, Linux.
